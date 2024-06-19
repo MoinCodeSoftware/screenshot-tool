@@ -17,3 +17,8 @@ Dieses Tool ermöglicht es Ihnen, Screenshots von Webseiten zu erstellen, indem 
 - Node.js
 - Puppeteer (ein Node.js-Paket)
 
+### Probleme?
+
+Kontaktieren Sie mich gerne. 
+www.MoinCode.de 
+Timm Felix Kluth
